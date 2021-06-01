@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1608424889 source:c:\users\emsar\desktop\prjoekat glup\projekat iz predmeta pjip\main.cpp
+	<iostream>
+	<ostream>
+	<string>
+	<vector>
+	<iterator>
+	"funkcije.h"
+	"person.h"
+	"menu.h"
+
+1608410852 source:c:\users\emsar\desktop\prjoekat glup\projekat iz predmeta pjip\person.cpp
+	<iostream>
+	<string>
+	"person.h"
+
+1608410852 c:\users\emsar\desktop\prjoekat glup\projekat iz predmeta pjip\person.h
+	<string>
+
+1608412437 source:c:\users\emsar\desktop\prjoekat glup\projekat iz predmeta pjip\funkcije.cpp
+	<iterator>
+	<vector>
+	<string>
+	"person.h"
+	"funkcije.h"
+
+1608411833 c:\users\emsar\desktop\prjoekat glup\projekat iz predmeta pjip\funkcije.h
+	<vector>
+	<string>
+	"person.h"
+
+1608424863 source:c:\users\emsar\desktop\prjoekat glup\projekat iz predmeta pjip\menu.cpp
+	<iostream>
+	<iterator>
+	<ostream>
+	<string>
+	<vector>
+	<sstream>
+	<ios>
+	<limits>
+	<algorithm>
+	<fstream>
+	"person.h"
+	"funkcije.h"
+	"menu.h"
+
+1608419604 c:\users\emsar\desktop\prjoekat glup\projekat iz predmeta pjip\menu.h
+	<fstream>
+	<ostream>
+	<vector>
+	"funkcije.h"
+	"person.h"
+
+1609185285 source:c:\users\emsar\desktop\projekat iz predmeta programski jezici i programiranje\projekat\projekat iz predmeta pjip\funkcije.cpp
+	<iterator>
+	<vector>
+	<string>
+	"person.h"
+	"funkcije.h"
+
+1608410852 c:\users\emsar\desktop\projekat iz predmeta programski jezici i programiranje\projekat\projekat iz predmeta pjip\person.h
+	<string>
+
+1609185285 c:\users\emsar\desktop\projekat iz predmeta programski jezici i programiranje\projekat\projekat iz predmeta pjip\funkcije.h
+	<vector>
+	<string>
+	"person.h"
+
+1610231639 source:c:\users\emsar\desktop\projekat iz predmeta programski jezici i programiranje\projekat\projekat iz predmeta pjip\main.cpp
+	<iostream>
+	<ostream>
+	<string>
+	<vector>
+	<iterator>
+	"funkcije.h"
+	"person.h"
+	"menu.h"
+
+1608419604 c:\users\emsar\desktop\projekat iz predmeta programski jezici i programiranje\projekat\projekat iz predmeta pjip\menu.h
+	<fstream>
+	<ostream>
+	<vector>
+	"funkcije.h"
+	"person.h"
+
+1609185285 source:c:\users\emsar\desktop\projekat iz predmeta programski jezici i programiranje\projekat\projekat iz predmeta pjip\menu.cpp
+	<iostream>
+	<iterator>
+	<ostream>
+	<string>
+	<vector>
+	<sstream>
+	<ios>
+	<limits>
+	<algorithm>
+	<fstream>
+	"person.h"
+	"funkcije.h"
+	"menu.h"
+
+1608410852 source:c:\users\emsar\desktop\projekat iz predmeta programski jezici i programiranje\projekat\projekat iz predmeta pjip\person.cpp
+	<iostream>
+	<string>
+	"person.h"
+
